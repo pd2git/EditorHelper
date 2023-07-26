@@ -1,6 +1,6 @@
 # Editor Helper
 
-Language：English, [简体中文](/README_CN.md)
+Language：English, [简体中文](/README_zh-CN.md)
 
 This is an editor code writing assistant that provides some general features to make it easier to write editor code.
 <br>See the folders **_"[Example](/Samples/Example/)"_** and **_"[Documentation](/Documentation)"_** for details.
