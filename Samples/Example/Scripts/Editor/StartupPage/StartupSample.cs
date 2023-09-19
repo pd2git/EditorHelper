@@ -11,12 +11,12 @@
 // Uncomment the code below to enable the startup sample.
 //#define ENABLE_STARTUP
 
-using AA.Editor.EditorHelper.Startup;
-using AA.Editor.EditorHelper.Utility;
+using AA.EditorHelper.Startup;
+using AA.EditorHelper.Utility;
 using UnityEditor;
 using UnityEngine;
 
-namespace AA.Editor.EditorHelper.Sample
+namespace AA.EditorHelper.Sample
 {
     /// <summary>
     /// A sample to show a window after Unity launched.

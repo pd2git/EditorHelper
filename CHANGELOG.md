@@ -2,6 +2,11 @@
 It is an assistant when writing the editor code.
 <br>It provides some general feature to easy to writing codes for editor.
 
+## [1.1.0] - 2023-09-19
+
+### Changed
+- Change the namespace.
+
 ## [1.0.0] - 2023-07-22
 
 ### Added

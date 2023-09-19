@@ -10,12 +10,12 @@
 
 using System;
 using System.Collections.Generic;
-using AA.Editor.EditorHelper.Flow;
-using AA.Editor.EditorHelper.Utility;
+using AA.EditorHelper.Flow;
+using AA.EditorHelper.Utility;
 using UnityEditor;
 using UnityEngine;
 
-namespace AA.Editor.EditorHelper.Sample
+namespace AA.EditorHelper.Sample
 {
     /// <summary>
     /// A sample of the flow.

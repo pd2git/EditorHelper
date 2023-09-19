@@ -8,12 +8,12 @@
 * ==========================================
 */
 
-using AA.Editor.EditorHelper.Base;
-using AA.Editor.EditorHelper.Flow;
+using AA.EditorHelper.Base;
+using AA.EditorHelper.Flow;
 using UnityEditor;
 using UnityEngine;
 
-namespace AA.Editor.EditorHelper.Sample
+namespace AA.EditorHelper.Sample
 {
     /// <summary>
     /// A sample to step page and Persistence Save

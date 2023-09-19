@@ -1,7 +1,7 @@
 {
   "name": "net.aa.editorhelper",
   "displayName": "Editor Helper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "unity": "2019.4",
   "description": "It is an assistant when writing the editor code. It provides some general feature to easy to writing codes for editor.",
   "type": "library",
