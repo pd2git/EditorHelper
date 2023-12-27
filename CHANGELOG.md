@@ -2,11 +2,11 @@
 It is an assistant when writing the editor code.
 <br>It provides some general feature to easy to writing codes for editor.
 
-## [1.0.2] - 2023-12-26
+## [1.1.1] - 2023-12-26
 
 ### Changed
 - Change the way of the core module is built.
-- Update the document。
+- Update the document.
 
 ## [1.1.0] - 2023-09-19
 
