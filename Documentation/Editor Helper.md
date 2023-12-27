@@ -12,10 +12,10 @@ This package includes examples about the features above. For more information, s
 To install this package, follow the any one method below:
 
 - Downloaded the release unity package file to local and import it to the project. See [Importing local asset packages](https://docs.unity3d.com/Manual/AssetPackagesImport.html).
-- [Git URL](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@latest/index.html)
+- [Git URL](https://docs.unity3d.com/cn/current/Manual/upm-ui-giturl.html)
 - [Local Folder](https://docs.unity3d.com/Manual/upm-ui-local.html)
 
-For more information, see [Package Manager Window](https://docs.unity3d.com/Packages/com.unity.package-manager-ui@latest/index.html)
+For more information, see [Package Manager Window](https://docs.unity3d.com/cn/current/Manual/upm-ui.html)
  
 # Using Editor Helper
 
@@ -59,5 +59,6 @@ The following table indicates the features of each folder or file in the locatio
 
 |Date|Reason|
 |---|---|
+|2023-12-26| Document(v1.1.1) updated for package version 1.1.1.<br>New modifications: <li>Fixed the issue that the dependent address was fixed and changed to automatically get the latest version. <li>Fix links that no longer exist in the document.|
 |2023-07-25|Unedited. Published to package.|
 |2023-07-24|Document created. Matches package version 1.0.0|

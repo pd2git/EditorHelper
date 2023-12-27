@@ -5,7 +5,7 @@ Language：English, [简体中文](/README_zh-CN.md)
 This is an editor code writing assistant that provides some general features to make it easier to write editor code.
 <br>See the folders **_"[Example](/Samples/Example/)"_** and **_"[Documentation](/Documentation)"_** for details.
 
-## Version[1.1.0]
+## Version[1.1.1]
 
 ## Function
 - Save properties to EditorPres using attributes.
